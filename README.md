@@ -1,5 +1,11 @@
 # Player Engagement and Monetization Analysis (Excel Dashboard)
 
+## Dashboard Preview
+
+Here is a snapshot of the interactive Excel dashboard created for this project:
+
+![Dashboard Screenshot](Dashboard.png)
+
 ## Overview
 This project analyzes **200+ video game session records** to explore player engagement and monetization patterns. The data was cleaned and structured in Excel, then transformed into an **interactive dashboard** highlighting key KPIs.
 
